@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+!DOCTYPE html>
+<html>
+<head> 
+	
+<meta charset="utf-8">
+<title>菜b</title>
+<script>
+function myFunction(){
+	document.getElementById("demo").innerHTML="我的第一个 JavaScript 函数";
+}
+</script>
+</head>
+<body>
+<div id="container">
+<div id="header" style="background-color:#FFA500;">
+	<h3 style="background-color:yellow"> cnmb</h3>
+	<p style="color: red; font-size:99px" id="demo"> nm<sub>b</sub></p>
+	<br>
+	<hr>
+	<p><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnPGGXIbCcnNsksiqfC69IgZUcRRc6OzrT0JmmCNVykdqXoAXPes-Ol9d_CQ&s"  width="418" height="48"></p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlffKPTLn4GWr27tY35uJEiPer9qen0BL0YYZ0HUHRtJRaJsCUcI4eJA&s" width="258" height="39" alt="nmb" usemap="#aamap">
+<map name= "aamap">
+	<area shap="rect" coords="0,0,100,39" alt="aaa" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlffKPTLn4GWr27tY35uJEiPer9qen0BL0YYZ0HUHRtJRaJsCUcI4eJA&s">
+	</map>
+	
+	<form action="">
+	nmmb <input type="text" name="nmb">
+	<br>
+	key <input type="password" name="key">
 
-You can use the [editor on GitHub](https://github.com/rockmangd/neegajee.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rockmangd/neegajee.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	</form>
+	
+		
+		
+	<button type="button" onclick="myFunction()">点cao</button>
+		
+		
+		</body>
